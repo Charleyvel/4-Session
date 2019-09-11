@@ -1,0 +1,9 @@
+ /*
+        *This is the in-class assignment
+         */
+
+        double rate = 23.40; //This is her base hourly rate up to 40 hours
+        double overtime = 30.00; //This is her hourly rate after 40 hours
+        rate = 23.40*40; //This is her pay for up to 40 hours
+        overtime = 7*30.00; //This is her pay for after 40 hours
+        System.out.println(rate+overtime); //This will display her total pay for 47 hours.
