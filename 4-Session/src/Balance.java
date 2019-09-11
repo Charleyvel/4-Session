@@ -10,7 +10,7 @@ public class Balance {
 
             System.out.println(text);
             //User Input
-            Scanner input = new Scanner
+
         }
     }
 }
